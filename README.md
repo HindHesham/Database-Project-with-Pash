@@ -1,9 +1,4 @@
-# Database-Project-with-base
- team member
- 1/iman sakr
- 2/hind mohamed hesham
- 
- 
+# Database-Project-with-base 
  hint:
  
  1-when you choose table, the programe will list all table you already created before with ".sql" extention 
